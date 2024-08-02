@@ -1,4 +1,6 @@
-# Disciplina de Teste de Software
+# Teste de Software
+
+![Teste de Software](https://github.com/user-attachments/assets/ed8b3bf6-9eed-493c-8047-b36af97cd2df)
 
 Bem-vindo à disciplina de Teste de Software! Esta disciplina tem como objetivo fornecer uma compreensão abrangente dos conceitos, técnicas e práticas de teste de software, com um foco especial em testes automatizados e testes de sistemas web. A seguir, detalhamos o conteúdo das unidades que serão abordadas ao longo do curso.
 
@@ -112,7 +114,10 @@ Bem-vindo à disciplina de Teste de Software! Esta disciplina tem como objetivo 
 
 ## Recursos Adicionais
 
-- Livros recomendados:
+- Bibliografia:
+  - BRAGA, Pedro Henrique Cacique. *Teste de Software*. Pearson Education do Brasil. São Paulo. 2016. Disponível na Biblioteca Virtual.
+  - DELAMARO, Márcio; MALDONADO, José Carlos, JINO, Mario. *Introdução ao teste de software*. Elsevier. Rio de Janeiro. 2007.
+  - PEZZÉ, Mauro; YOUNG, Michal. *Teste e Análise de Software*. Porto Alegre: Bookman, 2008.
   - *"Foundations of Software Testing"* de Dorothy Graham, Erik van Veenendaal, Isabel Evans e Rex Black
   - *"Agile Testing: A Practical Guide for Testers and Agile Teams"* de Lisa Crispin e Janet Gregory
   - *"The Art of Software Testing"* de Glenford Myers
