@@ -1,6 +1,7 @@
 # Teste de Software
 
-![Teste de Software](https://github.com/user-attachments/assets/ed8b3bf6-9eed-493c-8047-b36af97cd2df)
+![Teste de Software](https://github.com/user-attachments/assets/2131f077-31e7-47c5-bd24-b8c873f8ce85)
+
 
 Bem-vindo à disciplina de Teste de Software! Esta disciplina tem como objetivo fornecer uma compreensão abrangente dos conceitos, técnicas e práticas de teste de software, com um foco especial em testes automatizados e testes de sistemas web. A seguir, detalhamos o conteúdo das unidades que serão abordadas ao longo do curso.
 
