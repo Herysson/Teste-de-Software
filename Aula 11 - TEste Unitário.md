@@ -1,4 +1,4 @@
-# Tutorial Completo sobre Teste Unitário com JUnit, Maven, IntelliJ e Java
+# Teste Unitário com JUnit, Maven, IntelliJ e Java
 
 ## **1. Introdução**
 Os testes unitários são uma prática essencial no desenvolvimento de software para garantir a qualidade e a funcionalidade do código. Neste tutorial, abordaremos como configurar e executar testes unitários em Java usando JUnit, gerenciar dependências com Maven e utilizar o IntelliJ IDEA como ambiente de desenvolvimento. Também exploraremos como verificar a cobertura de testes.
